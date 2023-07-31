@@ -1,2 +1,2 @@
-# racnher
+# Rancher
 Rancher
